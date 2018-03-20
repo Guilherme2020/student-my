@@ -1,15 +1,14 @@
 
-A class platform, using django + materialize-css
+# A class platform, using django + materialize-css
 
+## Technologies:
 
-Technologies:
+   - back-end: Django
 
-back-end: Django
+   - front-end: materialize-css
 
-front-end: materialize-css
+   - database: postgreesql
 
-database: postgreesql
-
-email service: Mailgun
+   - email service: Mailgun
 
 
