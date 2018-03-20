@@ -1,5 +1,5 @@
 
-# A class platform, using django + materialize-css
+# A class platform using django + materialize-css
 
 ## Technologies:
 
